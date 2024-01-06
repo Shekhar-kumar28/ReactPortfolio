@@ -32,11 +32,9 @@ function About() {
                 cursorStyle="|"
                 cursorColor="#a600ffcd"
               /></div>
-                    <p>I am a Front-End Web Developer. I’m working as a web developer. I have developed many websites and also provided my services as a freelancer I have been part of some very good web design projects. I am doing my graduation Computer Science And Engineering.
-                        I'm also learning Back-End Development and looking forward to being a Full Stack Web Developer.
-                    </p>
+                    <p>"Hello! I'm passionate about MERN stack development, merging MongoDB, Express.js, React, and Node.js to create dynamic web applications. With experience in front-end and a pursuit of full-stack expertise, I've contributed to diverse projects. Eager to craft innovative solutions and evolve as a versatile developer."</p>
                     
-                    <Link to="">Download CV</Link>
+                    <Link to="https://about.me/shekhar.k">Download CV</Link>
                 </div>
             </div>
         </div>

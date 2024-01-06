@@ -92,6 +92,9 @@ section .title::after{
     top: 0;
     background: #a600ffcd;
 }
+.skills-content .right .mern::before{
+    width: 65%;
+}
 .skills-content .right .html::before{
     width: 90%;
 }
@@ -101,10 +104,10 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .C::before{
+.skills-content .right .Boot::before{
     width: 85%;
 }
-.skills-content .right .React::before{
+.skills-content .right .Tail::before{
     width: 80%;
 }
 .skills-content .right .Python::before{
